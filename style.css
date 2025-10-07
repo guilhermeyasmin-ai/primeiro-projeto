@@ -4,5 +4,7 @@ body {
 }
 
 header { 
-    border-bottom: solid 2px black
+    border-bottom: solid 2px black;
+    font-size: 32px
+    color:black;
 }
